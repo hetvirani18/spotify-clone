@@ -4,7 +4,7 @@ A simple clone of the Spotify homepage using only HTML and CSS. This project foc
 
 ## 📸 Screenshot
 
-![Spotify Homepage Clone](assets/spotify-clone.png)
+![Spotify Homepage Clone](assests/spotify-clone.png)
 
 ## 🛠️ Technologies Used
 
